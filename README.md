@@ -1,4 +1,4 @@
-# EMPredictor
+# EmPredictor
 
 ## Quick Start
 
